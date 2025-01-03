@@ -23,7 +23,8 @@
 **Difficulty:** Medium | **Accuracy:** 13.43% | [View Problem](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell/0)
 
 ### Day 9 - Minimize the Heights II  
-**Difficulty:** Medium | **Accuracy:** 15.06% | [View Problem](https://practice.geeksforgeeks.org/problems/minimize-the-heights-ii/0)
+**Difficulty:** Medium | **Accuracy**: 15.06% | [View Problem](https://practice.geeksforgeeks.org/problems/minimize-the-heights-ii/0)
+
 ---
 ## Skipped Days  
 - **Day 6**: Majority Element II  
