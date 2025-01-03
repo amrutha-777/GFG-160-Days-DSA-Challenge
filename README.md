@@ -35,7 +35,7 @@ Skipped due to challenges or scheduling conflicts.
 ⏳ **Remaining Days**: 153  
 ---
 ## What's Next  
-- Resuming from **Day 10** tomorrow (**02-01-2025**).  
+- Resuming from **Day 10** tomorrow (**04-01-2025**).  
 - Focus for the week: Arrays and Greedy Problems.  
 ---
 ## Notes  
