@@ -28,7 +28,7 @@ DAY 6 - Stock Buy and Sell – Multiple Transactions Allowed
 
 Difficulty: Medium | Accuracy: 13.43% | [View Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615)
 
-DAY 7 - Minimize the Heights II
+DAY 7 - Minimize the Heights II  [View Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351)
 
 Difficulty: Medium | Accuracy: 15.06% | View Problem
 
