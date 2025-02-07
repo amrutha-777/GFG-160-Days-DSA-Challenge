@@ -1,4 +1,4 @@
-### DAY-9
+### DAY-8
 ### Minimize the Heights II (Problem 9)
 
 - **Difficulty**: Medium
